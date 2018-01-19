@@ -1,6 +1,6 @@
 {
   "name": "netboxjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript API wrapper for the Netbox API",
   "main": "index.js",
   "directories": {
