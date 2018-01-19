@@ -1,0 +1,14 @@
+{
+  "name": "netboxjsjs",
+  "version": "0.0.1",
+  "description": "Javascript API wrapper for the Netbox API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Jamie Wood <me@jamiewood.io>",
+  "license": "GNU",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
