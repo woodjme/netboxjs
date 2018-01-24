@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "Javascript API wrapper for the Netbox API",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodjamie/netboxjs.git"
+  },
   "directories": {
     "lib": "lib"
   },
