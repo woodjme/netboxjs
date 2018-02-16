@@ -3,6 +3,9 @@
   "version": "0.0.5",
   "description": "Javascript API wrapper for the Netbox API",
   "main": "index.js",
+  "scripts": {
+    "lint": "eslint"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/woodjamie/netboxjs.git"
@@ -14,5 +17,10 @@
   "license": "GNU",
   "dependencies": {
     "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
